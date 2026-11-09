@@ -7,4 +7,4 @@
 
 # Functionality
 
-main.py print "Hello world!" in terminal
+main.py prints "Hello!" in terminal
